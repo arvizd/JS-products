@@ -1,0 +1,6 @@
+
+li{list-style: none;}
+.bjfc{ width:508px; height:340px; float:left; margin-left:20px; margin-right:20px; z-index:-1;}
+.bjfc ol{position:relative;width: 80px;height: 20px;top:-30px;left:60px;}
+.bjfc ol li{float:left;width: 10px;height: 10px;margin: 5px;background: #fff;}
+.bjfc ol li.seleted{background: #1AA4CA;}
